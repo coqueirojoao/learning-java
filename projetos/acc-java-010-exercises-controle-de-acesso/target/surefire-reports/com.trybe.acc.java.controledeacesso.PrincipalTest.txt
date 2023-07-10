@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.trybe.acc.java.controledeacesso.PrincipalTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.053 s <<< FAILURE! - in null
+com.trybe.acc.java.controledeacesso.PrincipalTest.testeOpcaoInvalida  Time elapsed: 0.026 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at com.trybe.acc.java.controledeacesso.PrincipalTest.testeOpcaoInvalida(PrincipalTest.java:64)
+
+com.trybe.acc.java.controledeacesso.PrincipalTest.testePrincipal  Time elapsed: 0.015 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at com.trybe.acc.java.controledeacesso.PrincipalTest.testePrincipal(PrincipalTest.java:43)
+
